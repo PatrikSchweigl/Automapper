@@ -1,0 +1,15 @@
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\VMImpl.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\VMImpl.exe
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\VMImpl.pdb
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\AutoMapper.dll
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\AutoMapper.xml
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.exe
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.pdb
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\EntityFramework.dll
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\EntityFramework.xml
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.Migrations.V1.resources
+C:\Users\Patrik\Documents\Visual Studio 2017\Projects\VMImpl\VMImpl\obj\Debug\VMImpl.csproj.GenerateResource.Cache
